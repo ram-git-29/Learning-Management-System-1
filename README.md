@@ -131,8 +131,7 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 
 
 
-**Edit Course:**
-![Screenshot (99)](https://github.com/PATMESH/Learning-Management-System/assets/101879714/4dddc1b2-435b-4a07-864d-eeb4a4d6b233)
+
 
 
 
